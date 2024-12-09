@@ -11,6 +11,9 @@ public class MultipleVariables {
         System.out.println("The value of z "+z);
         System.out.println(x+y+z);
         System.out.println("print a , y , z value "+x+y+z);
+        System.out.println(x+y+z + "mast");
+        System.out.println("java" + x+y + "developer");
+        System.out.println("I am Developer of" + " java");
 
 
     }
